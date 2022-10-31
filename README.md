@@ -3,7 +3,7 @@
 The future of finance goes hand in hand with social responsibility, environmental stewardship and corporate ethics. In order to stay competitive, Financial Services Institutions (FSI) are increasingly disclosing more information about their environmental, social and governance (ESG) performance. By better understanding and quantifying the sustainability and societal impact of any investment in a company or business, FSIs can mitigate reputation risk and maintain the trust with both their clients and shareholders. At Databricks, we increasingly hear from our customers that ESG has become a C-suite priority. This is not solely driven by altruism but also by economics: Higher ESG ratings are generally positively correlated with valuation and profitability while negatively correlated with volatility. In this solution, we offer a novel approach to sustainable finance by combining NLP techniques and news analytics to extract key strategic ESG initiatives and learn companies' commitments to corporate responsibility.
 
 
-By adapting this Solution Accelerator from Databricks, let me also share some important setup steps that you can run it in your environment. 
+By adapting this Solution Accelerator from Databricks, let me also share some important setup steps, that you can also run it in your environment. 
 
 
 For running the notebooks, you have to Use this cluster, that's including ML. 
