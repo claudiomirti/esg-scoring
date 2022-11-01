@@ -10,6 +10,11 @@ For running the notebooks, you have to Use this cluster, that's including ML.
 ![image](https://user-images.githubusercontent.com/38947100/199015370-d5cab6dd-168f-4d0c-a009-18b4187c811e.png)
 
 
+Make sure you run the esg_config file first:
+![image](https://user-images.githubusercontent.com/38947100/199178108-9b283ae2-0864-4539-8b28-784e0aa087b7.png)
+
+
+
 You will need also some additional Libraries installed. Go to Install New, Choose "Maven" and add "com.aamend.spark:spark-gdelt:3.0" 
 ![image](https://user-images.githubusercontent.com/38947100/199016141-1f186173-3b45-4d9f-a0a7-a7d4e02cadef.png)
 
